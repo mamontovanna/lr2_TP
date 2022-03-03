@@ -1,0 +1,14 @@
+﻿"lab2.exe" (Win32). Загружено "C:\Users\Анна\Desktop\UNIK\4 СЕМЕСТР\Технология программирования\lab2\Debug\lab2.exe". Символы загружены.
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x34a0 завершился с кодом 0 (0x0).
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"lab2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x38cc завершился с кодом 0 (0x0).
+Поток 0x154c завершился с кодом 0 (0x0).
+Программа "[16856] lab2.exe" завершилась с кодом 0 (0x0).
